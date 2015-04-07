@@ -1,0 +1,40 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.universidadcauca.movil.preguntas.Fragmentos.ListadoFragmentos"
+    android:stretchColumns="*">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="Preguntas"
+        android:background="#ff28ff00"
+        android:textColor="#fffeff00"
+        android:gravity="center"
+        />
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weigth="1"
+        android:background="ff412782"
+        />
+
+    <TableRow>
+        <Button
+            android:layout_height="wrap_content"
+            android:text="opc1"
+            />
+        <Button
+            android:layout_height="wrap_content"
+            android:text="opc2"
+            />
+        <Button
+            android:layout_height="wrap_content"
+            android:text="opc3"
+            />
+
+
+    </TableRow>
+
+</FrameLayout>

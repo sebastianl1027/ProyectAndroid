@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Preguntas</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+
+
+    <string-array name="Preguntas_nav_options">
+        <item>¿Preguntas</item>
+        <item>Respuestas</item>
+        <item>Calificaiones</item>
+        <item>Compartir</item>
+    </string-array>
+
+    <string name="title_activity_preguntas">Preguntas</string>
+    <string name="menu_add">Agregar</string>
+    <string name="menu_more">Mas</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_info">Información</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Eliminar</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="add_pregunta">Pregunta</string>
+    <string name="add_categoria">Categoria</string>
+    <string name="add_nivel_pregunta">Nivel_Pregunta</string>
+
+    <string-array name="Buscar_Pregunta">
+        <item>¿Mejor Jugador de futbol?</item>
+        <item>¿Descubridor de America?</item>
+        <item>¿Rio mas largo del mundo?</item>
+        <item>¿Teorema de Pitagoras?</item>
+        <item>¿Principios fisica cuantica?</item>
+
+
+    </string-array>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_drawer_preguntas">DrawerPreguntas</string>
+    <string name="title_activity_nav_drawer_preguntas">NavDrawerPreguntas</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+</resources>
